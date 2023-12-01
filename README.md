@@ -1,4 +1,5 @@
-responsible
-ontime
-interested in learning
-hard_working
+#responsible
+#ontime
+#interested in learning
+#hard_working
+#FamilyLover
